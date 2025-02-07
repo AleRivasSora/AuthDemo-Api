@@ -25,8 +25,7 @@ A secure and modern API for user registration and authentication built with Fast
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-auth.git
-cd fastapi-auth
+git clone https://github.com/AleRivasSora/AuthDemo-Api.git
 ```
 
 2. Install dependencies:
